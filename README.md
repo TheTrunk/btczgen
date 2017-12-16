@@ -1,6 +1,8 @@
 # BtcZgen
 
-Offline BIP32 HD wallet and vanity address generator for BitcoinZ. Originally ported from [Hushgen.](https://github.com/TheTrunk/hushgen) 
+Offline BIP32 HD wallet and vanity address generator for BitcoinZ. 
+
+Ported from [Hushgen.](https://github.com/TheTrunk/hushgen) 
 
 ##Pre-requisites
 * Golang 1.7.3 (altought lower versions may work)
